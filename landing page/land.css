@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Arial,sans-serif;
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: bisque;
+    color: crimson;
+    padding:20px;
+}
+
+nav ul li {
+    display:inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    color: rgb(1, 13, 1);
+    text-decoration: none;
+}
+
+section{
+    padding: 20px;
+}
